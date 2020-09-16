@@ -15,7 +15,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1hWefJl5Jjk3nqqi9bgLpAcKzcV" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PyCharm项目\飞机大战\images" />
@@ -33,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.plane_main">
+  <component name="RunManager" selected="Python.yc_12_演练精灵">
     <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="飞机大战" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,9 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plane_main" />
         <item itemvalue="Python.yc_12_演练精灵" />
-        <item itemvalue="Python.yc_11_监听退出事件" />
+        <item itemvalue="Python.plane_main" />
         <item itemvalue="Python.yc_11_事件监听" />
         <item itemvalue="Python.yc_08_更新英雄位置" />
       </list>
